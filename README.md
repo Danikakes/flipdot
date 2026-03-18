@@ -4,6 +4,12 @@ A Godot 4 plugin that makes animations look like stop motion — in the editor a
 
 Flipdot provides a **FlipdotPlayer** node that you add as a child of any AnimationPlayer. It applies FPS-capped, frame-by-frame playback to the target player without replacing or modifying it — making it work even in instanced scenes where the AnimationPlayer is not directly editable.
 
+Feel free to donate to my [Paypal]( https://www.paypal.com/donate/?business=WK8M59YJRAYAJ&no_recurring=0&currency_code=USD) if you like what I make :)
+
+Licensed under MIT so feel free to use it however you like. 
+
+My only ask is if you come up with a better solution to a shortcoming of this plugin, make an issue or a PR with your updates :) happy coding!
+
 ---
 
 ## Installation
